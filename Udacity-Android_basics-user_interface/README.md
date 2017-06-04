@@ -24,3 +24,14 @@
 ### Position in the layouts center
     - layout_centerHorizontal
     - layout_centerVertical
+    
+### Relative to other view
+    - android:layout_toLeftOf="<view_id of view>"
+    - toRightOf
+    - below
+    - above
+    - toEndOf
+   
+## Padding and Margin
+    - android:padding
+    - android:margin
